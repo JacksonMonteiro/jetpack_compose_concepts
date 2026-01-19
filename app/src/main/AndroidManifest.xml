@@ -36,6 +36,10 @@
             android:exported="true"
             android:label="@string/title_activity_image_card"
             android:theme="@style/Theme.CrashCourse" />
+        <activity
+            android:name=".TextStylingActivity"
+            android:exported="true"
+            android:label="@string/title_activity_text_styling"
+            android:theme="@style/Theme.CrashCourse" />
     </application>
-
 </manifest>
