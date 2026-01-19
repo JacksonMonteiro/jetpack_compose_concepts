@@ -41,5 +41,11 @@
             android:exported="true"
             android:label="@string/title_activity_text_styling"
             android:theme="@style/Theme.CrashCourse" />
+        <activity
+            android:name=".StateActivity"
+            android:exported="true"
+            android:label="@string/title_activity_state"
+            android:theme="@style/Theme.CrashCourse" />
     </application>
+
 </manifest>
