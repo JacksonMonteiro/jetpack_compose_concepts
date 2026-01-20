@@ -51,6 +51,11 @@
             android:exported="true"
             android:label="@string/title_activity_inputs_button_and_snackbars"
             android:theme="@style/Theme.CrashCourse" />
+        <activity
+            android:name=".ListsActivity"
+            android:exported="true"
+            android:label="@string/title_activity_lists"
+            android:theme="@style/Theme.CrashCourse" />
     </application>
 
 </manifest>
