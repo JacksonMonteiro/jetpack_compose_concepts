@@ -4,4 +4,5 @@
     <string name="title_activity_image_card">ImageCardActivity</string>
     <string name="title_activity_text_styling">TextStylingActivity</string>
     <string name="title_activity_state">StateActivity</string>
+    <string name="title_activity_inputs_button_and_snackbars">InputsButtonAndSnackbars</string>
 </resources>
