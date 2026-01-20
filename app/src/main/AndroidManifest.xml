@@ -56,6 +56,11 @@
             android:exported="true"
             android:label="@string/title_activity_lists"
             android:theme="@style/Theme.CrashCourse" />
+        <activity
+            android:name=".ConstraintLayoutActivity"
+            android:exported="true"
+            android:label="@string/title_activity_constraint_layout"
+            android:theme="@style/Theme.CrashCourse" />
     </application>
 
 </manifest>
