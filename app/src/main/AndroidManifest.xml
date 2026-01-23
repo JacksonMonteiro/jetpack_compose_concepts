@@ -11,6 +11,7 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.CrashCourse">
 
+
         <activity
             android:name=".MainActivity"
             android:exported="true"
@@ -60,6 +61,11 @@
             android:name=".ConstraintLayoutActivity"
             android:exported="true"
             android:label="@string/title_activity_constraint_layout"
+            android:theme="@style/Theme.CrashCourse" />
+        <activity
+            android:name=".SimpleAnimations"
+            android:exported="true"
+            android:label="@string/title_activity_simple_animations"
             android:theme="@style/Theme.CrashCourse" />
     </application>
 

@@ -7,4 +7,6 @@
     <string name="title_activity_inputs_button_and_snackbars">InputsButtonAndSnackbars</string>
     <string name="title_activity_lists">ListsActivity</string>
     <string name="title_activity_constraint_layout">ConstraintLayoutActivity</string>
+    <string name="title_activity_effect_handlers">EffectHandlersActivity</string>
+    <string name="title_activity_simple_animations">SimpleAnimations</string>
 </resources>
