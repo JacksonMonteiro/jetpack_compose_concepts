@@ -11,7 +11,6 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.CrashCourse">
 
-
         <activity
             android:name=".MainActivity"
             android:exported="true"
@@ -66,6 +65,11 @@
             android:name=".SimpleAnimations"
             android:exported="true"
             android:label="@string/title_activity_simple_animations"
+            android:theme="@style/Theme.CrashCourse" />
+        <activity
+            android:name=".ProgressBarActivity"
+            android:exported="true"
+            android:label="@string/title_activity_progress_bar"
             android:theme="@style/Theme.CrashCourse" />
     </application>
 
