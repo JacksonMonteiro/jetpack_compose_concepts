@@ -1,4 +1,4 @@
-package com.example.crashcourse
+package com.example.crashcourse.concepts
 
 import android.content.Context
 import android.os.Bundle

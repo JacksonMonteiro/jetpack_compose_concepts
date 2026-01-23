@@ -1,4 +1,4 @@
-package com.example.crashcourse
+package com.example.crashcourse.concepts
 
 import android.os.Bundle
 import androidx.activity.ComponentActivity
@@ -19,6 +19,7 @@ import androidx.compose.ui.text.style.TextAlign
 import androidx.compose.ui.text.style.TextDecoration
 import androidx.compose.ui.text.withStyle
 import androidx.compose.ui.unit.sp
+import com.example.crashcourse.R
 
 class TextStylingActivity : ComponentActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {

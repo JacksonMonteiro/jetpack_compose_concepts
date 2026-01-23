@@ -1,4 +1,4 @@
-package com.example.crashcourse
+package com.example.crashcourse.concepts
 
 import android.os.Bundle
 import androidx.activity.ComponentActivity
@@ -27,6 +27,7 @@ import androidx.compose.ui.res.painterResource
 import androidx.compose.ui.text.TextStyle
 import androidx.compose.ui.unit.dp
 import androidx.compose.ui.unit.sp
+import com.example.crashcourse.R
 
 class ImageCardActivity : ComponentActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {

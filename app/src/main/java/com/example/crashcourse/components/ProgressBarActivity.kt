@@ -1,4 +1,4 @@
-package com.example.crashcourse
+package com.example.crashcourse.components
 
 import android.os.Bundle
 import androidx.activity.ComponentActivity
