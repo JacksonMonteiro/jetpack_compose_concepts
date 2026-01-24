@@ -10,4 +10,5 @@
     <string name="title_activity_effect_handlers">EffectHandlersActivity</string>
     <string name="title_activity_simple_animations">SimpleAnimations</string>
     <string name="title_activity_progress_bar">ProgressBarActivity</string>
+    <string name="title_activity_draggable_music_knob">DraggableMusicKnob</string>
 </resources>

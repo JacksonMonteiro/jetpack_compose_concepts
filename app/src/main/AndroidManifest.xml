@@ -11,6 +11,7 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.CrashCourse">
 
+
         <activity
             android:name=".concepts.MainActivity"
             android:exported="true"
@@ -70,6 +71,11 @@
             android:name=".components.ProgressBarActivity"
             android:exported="true"
             android:label="@string/title_activity_progress_bar"
+            android:theme="@style/Theme.CrashCourse" />
+        <activity
+            android:name=".interfaces.DraggableMusicKnobActivity"
+            android:exported="true"
+            android:label="@string/title_activity_draggable_music_knob"
             android:theme="@style/Theme.CrashCourse" />
     </application>
 
