@@ -49,7 +49,7 @@ class TimerActivity : ComponentActivity() {
                     Timer(
                         totalTime = 100L * 1000L,
                         handleColor = Color.Green,
-                        inactiveBarColor = Color.DarkGray,
+                        inactiveBarColor = Color.Red,
                         activeBarColor = Color(0xFF37B900),
                         modifier = Modifier.size(200.dp)
                     )

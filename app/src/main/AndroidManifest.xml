@@ -10,11 +10,7 @@
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
         android:theme="@style/Theme.CrashCourse">
-        <activity
-            android:name=".components.TimerActivity"
-            android:exported="false"
-            android:label="@string/title_activity_timer"
-            android:theme="@style/Theme.CrashCourse" />
+
         <activity
             android:name=".concepts.MainActivity"
             android:exported="true"
@@ -84,6 +80,16 @@
             android:name=".interfaces.meditationUI.MeditationUIActivity"
             android:exported="true"
             android:label="@string/title_activity_meditation_ui"
+            android:theme="@style/Theme.CrashCourse" />
+        <activity
+            android:name=".components.TimerActivity"
+            android:exported="true"
+            android:label="@string/title_activity_timer"
+            android:theme="@style/Theme.CrashCourse" />
+        <activity
+            android:name=".components.DropdownActivity"
+            android:exported="true"
+            android:label="@string/title_activity_dropdown"
             android:theme="@style/Theme.CrashCourse" />
     </application>
 

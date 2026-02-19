@@ -14,4 +14,5 @@
     <string name="title_activity_meditation_ui">MeditationUI</string>
     <string name="title_activity_meditation_uihome_screen">MeditationUIHomeScreen</string>
     <string name="title_activity_timer">TimerActivity</string>
+    <string name="title_activity_dropdown">DropdownActivity</string>
 </resources>
